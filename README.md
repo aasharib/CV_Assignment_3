@@ -34,6 +34,5 @@ sklearn => 0.24
 Just make sure to change dataset path according to your machine for uninterrupted running of notebook
 
 ### Model weights file
-'model' directory contains the trained model weights
-it is also avilable at: 
+Model weights are avilable at: 
 https://drive.google.com/file/d/1-3nBcB9PkLq-AkMchClHAZDxtTAhkSwj/view?usp=sharing
