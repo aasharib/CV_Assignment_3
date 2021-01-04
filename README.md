@@ -31,6 +31,8 @@ Keras => 2.4.3
 Keras-Preprocessing => 1.1.2  
 sklearn => 0.24
 
+Just make sure to change dataset path according to your machine for uninterrupted running of notebook
+
 ### Model weights file
 'model' directory contains the trained model weights
 it is also avilable at: 
